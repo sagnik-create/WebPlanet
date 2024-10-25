@@ -11,6 +11,9 @@
 - [Customization](#customization)
 - [Future Improvements](#future-improvements)
 
+![Product Image](https://github.com/user-attachments/assets/2c97f4fc-ec8c-4ef6-aa90-549bbb797be8)
+
+
 ## Project Structure
 ```
 planet-shop/
